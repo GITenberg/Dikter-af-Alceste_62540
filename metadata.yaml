@@ -1,0 +1,29 @@
+_repo: Dikter-af-Alceste_62540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Runeberg, Hjalmar Johannes
+    alias: Runeberg, Nino
+    birthdate: 1874
+    deathdate: 1934
+    gutenberg_agent_id: '45000'
+    url: http://www.gutenberg.org/2009/agents/45000
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Nino_Runeberg
+    - https://eo.wikipedia.org/wiki/Hjalmar_Johannes_Runeberg
+    - https://sv.wikipedia.org/wiki/Nino_Runeberg
+description: ''
+gutenberg_issued: '2020-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62540'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry (Swedish)'
+- !lcc 'PT'
+- GITenberg
+title: Dikter af Alceste
+url: http://www.gutenberg.org/ebooks/62540
